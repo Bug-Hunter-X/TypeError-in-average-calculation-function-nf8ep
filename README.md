@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python code: handling exceptions. The `calculate_average` function calculates the average of numbers in a list. The original code lacks error handling for non-numeric input, leading to a TypeError. The solution enhances the function by adding input validation and a `try-except` block to handle potential errors gracefully.
